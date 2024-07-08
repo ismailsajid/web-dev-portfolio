@@ -95,8 +95,9 @@ nav li a{
     font-size: 85px;
 }
 .banner-description{
-    font-size: 20px;
     font-weight: 585;
+    font-size: 20px;
+    color: #757575;
 }
 .banner-profile-pic{
     width: 580px;
